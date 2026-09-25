@@ -1,0 +1,11 @@
+python-dotenv
+sqlalchemy
+pyodbc
+pandas
+agent-framework-core
+agent-framework-foundry
+agent-framework-orchestrations
+azure-identity
+matplotlib
+fastapi
+uvicorn
